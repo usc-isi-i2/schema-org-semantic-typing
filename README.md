@@ -2,5 +2,6 @@
 
 Automatically mapping data sets to schema.org ontology
 
-AIM:
-Training karma on the entire schema.org ontology ( which has over 25 terabytes of data )
+This branch hosts the work specific to training of schema.org
+This is not a standalone project and will work only with Karma.
+
