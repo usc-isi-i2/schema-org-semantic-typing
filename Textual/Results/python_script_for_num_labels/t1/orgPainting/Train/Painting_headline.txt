@@ -1,0 +1,3 @@
+label:Painting|http://schema.org/Painting/headline
+Tribute to Steve Jobs
+The Legend of Wicked Jack

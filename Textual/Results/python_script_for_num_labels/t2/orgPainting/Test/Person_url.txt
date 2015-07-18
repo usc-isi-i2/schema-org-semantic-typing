@@ -1,0 +1,8 @@
+label:Person|http://schema.org/Person/url
+http://www.konstgalleri.se/matte
+http://www.konstgalleri.se/janfk
+http://www.konstgalleri.se/bofransson
+http://www.konstgalleri.se/akvarell
+http://hockney.guggenheim-bilbao.es/en/artists/david-hockney/
+http://hockney.guggenheim-bilbao.es/en/artists/david-hockney/
+http://www.konstgalleri.se/janfk

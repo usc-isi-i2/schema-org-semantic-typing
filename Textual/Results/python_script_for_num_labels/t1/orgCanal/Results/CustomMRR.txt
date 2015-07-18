@@ -1,0 +1,3 @@
+
+ Custom MRR : 0.6730769230769231
+ Number of Semantic Labels Which are not in Training Data : 0.0

@@ -1,0 +1,10 @@
+Data Set,MRR,Accuracy,Number of Training Labels,Number of Testing Labels
+orgPainting, 0.6035353535353536, 57.57575757575758%,50,33
+orgCanal, 0.39743589743589747, 30.76923076923077%,14,13
+
+Total Training Labels:62
+Total Testing Labels:46
+Number of Labels Which are present only in Testing or Training Set:22
+
+Total Accuracy:50.0
+Total MRR:0.545289855072

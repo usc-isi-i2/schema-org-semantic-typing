@@ -1,0 +1,4 @@
+label:Canal|http://schema.org/Canal/contentURL
+http://cdn1.images.touristlink.com/data/cache/V/A/N/V/I/T/E/L/aqueduct-of-vanvitelli-_aqueduct_400_300.jpg
+http://icdn.images.touristlink.com/data/cache/HA/SS/EL/TA/LB/ER/T/albert-canal-hasselt-_-albertkanaal_400_300.jpg
+http://icdn.images.touristlink.com/data/cache/AL/BE/RT/KA/NA/AL/KA/albert-canal-albertkanaal-kanne-_-4-5-7_400_300.jpg

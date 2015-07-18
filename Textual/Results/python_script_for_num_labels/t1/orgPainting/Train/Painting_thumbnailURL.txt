@@ -1,0 +1,2 @@
+label:Painting|http://schema.org/Painting/thumbnailURL
+http://gregbo.com/wp-content/uploads/2012/10/wicked-jack-gregbo-social-sharing.png

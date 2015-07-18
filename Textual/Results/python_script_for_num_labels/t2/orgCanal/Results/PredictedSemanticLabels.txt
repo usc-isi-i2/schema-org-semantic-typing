@@ -1,0 +1,91 @@
+Correct Semantic Label :label:ImageObject|http://schema.org/ImageObject/url
+Predicted Semantic Labels : 
+Label: label:RiverBodyOfWater|http://schema.org/RiverBodyOfWater/contentURL Score : 4.0287433
+Label: label:ImageObject|http://schema.org/ImageObject/contentURL Score : 3.8559997
+Label: label:LakeBodyOfWater|http://schema.org/LakeBodyOfWater/contentURL Score : 3.7927258
+Label: label:Mountain|http://schema.org/Mountain/contentURL Score : 3.2009368
+********************************************************
+Correct Semantic Label :label:Canal|http://schema.org/Canal/URL
+Predicted Semantic Labels : 
+Label: label:Sculpture|http://schema.org/Sculpture/URL Score : 7.5169454
+Label: label:Canal|http://schema.org/Canal/URL Score : 7.4989514
+Label: label:TVEpisode|http://schema.org/TVEpisode/URL Score : 7.457988
+Label: label:LandmarksOrHistoricalBuildings|http://schema.org/LandmarksOrHistoricalBuildings/URL Score : 7.331965
+********************************************************
+Correct Semantic Label :label:Canal|http://schema.org/Canal/additionalType
+Predicted Semantic Labels : 
+Label: label:Canal|http://schema.org/Canal/additionalType Score : 3.281671
+Label: label:Park|http://schema.org/Park/additionalType Score : 1.5696887
+Label: label:CollegeOrUniversity|http://schema.org/CollegeOrUniversity/additionalType Score : 1.2965482
+Label: label:LakeBodyOfWater|http://schema.org/LakeBodyOfWater/additionalType Score : 1.2697232
+********************************************************
+Correct Semantic Label :label:ImageObject|http://schema.org/ImageObject/contentURL
+Predicted Semantic Labels : 
+Label: label:ImageObject|http://schema.org/ImageObject/contentURL Score : 3.9330928
+Label: label:LakeBodyOfWater|http://schema.org/LakeBodyOfWater/contentURL Score : 3.6110413
+Label: label:Mountain|http://schema.org/Mountain/contentURL Score : 3.6081421
+Label: label:RiverBodyOfWater|http://schema.org/RiverBodyOfWater/contentURL Score : 3.3985791
+********************************************************
+Correct Semantic Label :label:Canal|http://schema.org/Canal/image
+Predicted Semantic Labels : 
+Label: label:Mountain|http://schema.org/Mountain/image Score : 1.9900731
+Label: label:RiverBodyOfWater|http://schema.org/RiverBodyOfWater/image Score : 1.8074675
+Label: label:Canal|http://schema.org/Canal/image Score : 1.7239659
+Label: label:GovernmentOrganization|http://schema.org/GovernmentOrganization/image Score : 1.7037889
+********************************************************
+Correct Semantic Label :label:Canal|http://schema.org/Canal/name
+Predicted Semantic Labels : 
+Label: label:Canal|http://schema.org/Canal/name Score : 4.826996
+Label: label:Canal|http://schema.org/Canal/URL Score : 2.2117364
+Label: label:Canal|http://schema.org/Canal/url Score : 1.9862187
+Label: label:Canal|http://schema.org/Canal/description Score : 1.9494647
+********************************************************
+Correct Semantic Label :label:Canal|http://schema.org/Canal/description
+Predicted Semantic Labels : 
+Label: label:Canal|http://schema.org/Canal/description Score : 3.9512436
+Label: label:RiverBodyOfWater|http://schema.org/RiverBodyOfWater/description Score : 3.0536733
+Label: label:LakeBodyOfWater|http://schema.org/LakeBodyOfWater/description Score : 2.851646
+Label: label:Mountain|http://schema.org/Mountain/description Score : 2.0945368
+********************************************************
+Correct Semantic Label :label:ImageObject|http://schema.org/ImageObject/name
+Predicted Semantic Labels : 
+Label: label:Canal|http://schema.org/Canal/name Score : 0.99572474
+Label: label:Canal|http://schema.org/Canal/description Score : 0.6071152
+Label: label:ImageObject|http://schema.org/ImageObject/name Score : 0.4727786
+Label: label:Canal|http://schema.org/Canal/URL Score : 0.42077175
+********************************************************
+Correct Semantic Label :label:Canal|http://schema.org/Canal/photos
+Predicted Semantic Labels : 
+Label: label:Canal|http://schema.org/Canal/description Score : 0.53213674
+Label: label:Canal|http://schema.org/Canal/name Score : 0.5246764
+Label: label:Hotel|http://schema.org/Hotel/name Score : 0.31643182
+Label: label:ShoppingCenter|http://schema.org/ShoppingCenter/photos Score : 0.26281974
+********************************************************
+Correct Semantic Label :label:Canal|http://schema.org/Canal/url
+Predicted Semantic Labels : 
+Label: label:Park|http://schema.org/Park/url Score : 1.9754407
+Label: label:LandmarksOrHistoricalBuildings|http://schema.org/LandmarksOrHistoricalBuildings/url Score : 1.8308511
+Label: label:LakeBodyOfWater|http://schema.org/LakeBodyOfWater/url Score : 1.7569503
+Label: label:RiverBodyOfWater|http://schema.org/RiverBodyOfWater/url Score : 1.6460569
+********************************************************
+Correct Semantic Label :label:PostalAddress|http://schema.org/PostalAddress/addressRegion
+Predicted Semantic Labels : 
+Label: label:Restaurant|http://schema.org/Restaurant/location Score : 0.33457434
+Label: label:Restaurant|http://schema.org/Restaurant/breadcrumb Score : 0.2676595
+Label: label:State|http://schema.org/State/name Score : 0.113382585
+Label: label:PostalAddress|http://schema.org/PostalAddress/postalCode Score : 0.11065006
+********************************************************
+Correct Semantic Label :label:PostalAddress|http://schema.org/PostalAddress/addressLocality
+Predicted Semantic Labels : 
+Label: label:Canal|http://schema.org/Canal/photos Score : 1.026072
+Label: label:Canal|http://schema.org/Canal/name Score : 0.41889215
+Label: label:Canal|http://schema.org/Canal/URL Score : 0.21157248
+Label: label:Canal|http://schema.org/Canal/description Score : 0.07480217
+********************************************************
+Correct Semantic Label :label:PostalAddress|http://schema.org/PostalAddress/addressCountry
+Predicted Semantic Labels : 
+Label: label:CreativeWork|http://schema.org/CreativeWork/about Score : 0.70285815
+Label: label:CollegeOrUniversity|http://schema.org/CollegeOrUniversity/additionalType Score : 0.4635681
+Label: label:Brand|http://schema.org/Brand/url Score : 0.43928635
+Label: label:VideoObject|http://schema.org/VideoObject/keywords Score : 0.32363003
+********************************************************

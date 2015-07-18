@@ -1,0 +1,3 @@
+label:Canal|http://schema.org/Canal/url
+http://www.touristlink.com/egypt/suez-canal/overview.html
+http://www.touristlink.com/canada/chambly-canal/overview.html

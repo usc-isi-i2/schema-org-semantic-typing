@@ -1,0 +1,9 @@
+label:Painting|http://schema.org/Painting/currency
+USD
+USD
+USD
+USD
+USD
+USD
+USD
+USD

@@ -1,0 +1,294 @@
+label:Painting|http://schema.org/Painting/keywords
+\n\thouses-and-buildings, forests-and-trees
+\n\tarts-and-crafts
+\n\tfictional-characters, battles-and-wars, Rudolph-Erich-Raspe-'The-Adventures-of-Baron-Munchausen', Munchausen
+\n\tfurniture-and-decoration, doors-and-windows
+\n\tdouble-portraits, birth-and-death
+\n\tpictures-and-drafts, Mona-Lisa
+\n\tChristianity, saints-and-apostles, Virgin-and-Child, New-Testament, St. Anne
+\n\tmale-portraits, shamans-and-sorcerers
+\n\tfictional-characters, Gargantua, Franois-Rabelais-'Gargantua-and-Pantagruel'
+\n\tfictional-characters, Virgil, Beatrice, Dante-Alighieri-\"The-Divine-Comedy\"
+\n\tbeasts-and-dragons
+\n\tanimals, birds
+\n\tfictional-characters, beasts-and-dragons, Dante-Alighieri-\"The-Divine-Comedy\"
+\n\tallegories-and-symbols, Christianity
+\n\tknights-and-warriors, fictional-characters, battles-and-wars, Constantinople, J-F.-Michaud-'Bibliotheque-des-Croisades'
+\n\troads-and-vehicles, mountains, clouds-and-sky
+\n\tanimals, arts-and-crafts, pastoral-scenes, boats-and-ships
+\n\tGreek-and-Roman-Mythology, Andromeda
+\n\tfictional-characters, battles-and-wars, John-Milton-\"Paradise-Lost\", angels-and-archangels
+\n\tGreek-and-Roman-Mythology, Cupid-and-Psyche, Paris, Aphrodite/Venus, Judgement-of-Paris, Hera/Juno, Athena/Minerva, Hermes/Mercury
+\n\tfamous-people, Alps, St-Bernard-Pass, 20th-May-1800, Napoleon-Bonaparte
+\n\tfictional-characters, Dante-Alighieri-\"The-Divine-Comedy\"
+\n\tarts-and-crafts, musical-instruments, art-supplies
+\n\tknights-and-warriors, fictional-characters, battles-and-wars, J-F.-Michaud-'Bibliotheque-des-Croisades'
+\n\tChristianity, Jesus-Christ, Last-Supper
+\n\tfictional-characters, beasts-and-dragons, John-Milton-\"Paradise-Lost\", mountains
+\n\tChristianity, saints-and-apostles, Jesus-Christ, Caiaphas
+\n\tflowers-and-plants, forests-and-trees
+\n\tChristianity, saints-and-apostles, Salome, St. John the Baptist
+\n\tallegories-and-symbols
+\n\tChristianity, Virgin-and-Child
+\n\tflowers-and-plants
+\n\tmusic-and-dancing
+\n\tmale-portraits
+\n\twinter, streets-and-squares, games-and-sport
+\n\tfields-and-plains, Auvers-sur-Oise
+\n\tfemale-portraits
+\n\tChristianity, Virgin-and-Child
+\n\tfemale-portraits
+\n\tfamous-people, family-portraits, female-portraits, The-Acheson
+\n\tanimals, battles-and-wars, bulls
+\n\tdesigns-and-sketches
+\n\tfurniture-and-decoration
+\n\tforests-and-trees
+\n\tfemale-portraits, beaches-and-shorelines
+\n\tfemale-portraits, beaches-and-shorelines
+\n\tfictional-characters, William-Blake-\"Europe-a-Prophecy\"
+\n\tmilitary-and-soldiers, executions, historical-events, defense-of-Madrid
+\n\tmale-portraits
+\n\tGreek-and-Roman-Mythology
+\n\tfemale-portraits, beaches-and-shorelines
+\n\tdishware-and-cutlery, food-and-beverages
+\n\tmale-portraits, famous-people, Leonardo-Loredan
+\n\tanimals, cats
+\n\tfields-and-plains, forests-and-trees, cliffs-and-rocks, rainbows
+\n\tforests-and-trees
+\n\twinter, houses-and-buildings, countryside, snow-and-blizzard
+\n\tfemale-portraits, Lucretia, Roman-Republic
+\n\tChristianity, saints-and-apostles, angels-and-archangels
+\n\tcottages-and-farmhouses
+\n\tmale-nude
+\n\tfictional-characters, Charles-Perrault-'Histoires-ou-contes-du-temps-pass', Cinderella
+\n\tChristianity, Jesus-Christ, Crucifixion
+\n\tfemale-nude
+\n\tflowers-and-plants
+\n\tfemale-portraits
+\n\tmale-portraits, famous-people, female-nude, male-nude, Giuliano-de-Medici
+\n\tanimals, cats
+\n\tRene-Magritte
+\n\tmale-portraits, famous-people, Paul-Verlaine
+\n\tmale-portraits
+\n\tautumn, fields-and-plains, forests-and-trees
+\n\tfamous-people, knights-and-warriors, fictional-characters, J-F.-Michaud-'Bibliotheque-des-Croisades', Saladin
+\n\tboats-and-ships, seas-and-oceans, France, Normandy, Grandcamp
+\n\tbeaches-and-shorelines
+\n\tstreets-and-squares, houses-and-buildings, theatres
+\n\tGreek-and-Roman-Mythology, sibyls, Libyan-Sibyl
+\n\tanimals, fields-and-plains
+\n\tfemale-portraits, double-portraits
+\n\tmale-portraits, famous-people, Jean-Michel-Basquiat
+\n\tfemale-portraits
+\n\tChristianity, St.-Paul, Conversion
+\n\tallegories-and-symbols, characters-and-emotions, arthropod, spiders
+\n\tflowers-and-plants, female-portraits
+\n\tfamous-people, female-portraits, Cleopatra
+\n\tfamous-people, female-portraits, Cleopatra
+\n\tsun-and-moon, houses-and-buildings, twilight-and-night
+\n\tknights-and-warriors, priests-and-sacraments, fictional-characters, J-F.-Michaud-'Bibliotheque-des-Croisades'
+\n\tallegories-and-symbols
+\n\tanimals, Unicorns
+\n\tfemale-portraits
+\n\tChristianity, Jacob
+\n\tChristianity, Tower-of-Babel
+\n\tflowers-and-plants
+\n\tGreek-and-Roman-Mythology, Pygmalion
+\n\tfictional-characters, Alfred-Tennyson-'Idylls-of-the-King', Merlin
+\n\tfemale-portraits
+\n\tallegories-and-symbols, expectation
+\n\tfictional-characters, Franois-Rabelais-'Gargantua-and-Pantagruel'
+\n\tchildren portraits
+\n\tChristianity, Virgin-and-Child, angels-and-archangels
+\n\tChristianity
+\n\tsummer, houses-and-buildings
+\n\tfictional-characters, beasts-and-dragons, Dante-Alighieri-\"The-Divine-Comedy\", forests-and-trees
+\n\tfemale-portraits, Mona-Lisa
+\n\tbirth-and-death, music-and-dancing
+\n\tallegories-and-symbols, male-portraits, skeletons-and-skulls
+\n\tChristianity, Old-Testament, Isaac, sacrifices, Abraham, angels-and-archangels
+\n\tgroup-portraits
+\n\tfemale-portraits
+\n\tChristianity, saints-and-apostles, St.-Petronius
+\n\tallegories-and-symbols, Greek-and-Roman-Mythology, ruins-and-columns, muses, monuments-and-statues
+\n\tanimals, children, dogs, mealtimes, leisure-and-sleep
+\n\tfictional-characters, Alfred-Tennyson-'Idylls-of-the-King', Merlin
+\n\tfamous-people, female-portraits, The-Duchess-of-Alba
+\n\tGreek-and-Roman-Mythology, nymphs-and-satyrs, seas-and-oceans, nereids, tritons
+\n\tfemale-portraits, children portraits
+\n\tfictional-characters, Edgar-Allan-Poe-'The-Raven', angels-and-archangels
+\n\tstreets-and-squares, houses-and-buildings, military-and-soldiers, ruins-and-columns, battles-and-wars, Arras
+\n\tmountains
+\n\tfictional-characters, Charles-Perrault-'Histoires-ou-contes-du-temps-pass', Cinderella, music-and-dancing
+\n\tanimals, female-portraits, cats
+\n\thouses-and-buildings, clouds-and-sky
+\n\tflowers-and-plants
+\n\tChristianity, Samson, ruins-and-columns
+\n\tchildren portraits
+\n\tfamous-people, female-portraits, Caroline-Murat
+\n\tfamous-people, knights-and-warriors, fictional-characters, J-F.-Michaud-'Bibliotheque-des-Croisades', Richard-I-of-England
+\n\tChristianity, Jesus-Christ, God-the-Father, Holy-Spirit, Holy-Trinity, Coronation-of-the-Virgin, Virgin-Mary
+\n\tChristianity, Virgin-and-Child
+\n\tallegories-and-symbols
+\n\tfurniture-and-decoration, doors-and-windows
+\n\tchildren portraits
+\n\tfamous-people, male-nude, Richard-Gerstl
+\n\tChristianity, Jesus-Christ
+\n\tfemale-portraits
+\n\tfemale-portraits, priests-and-sacraments, vestals
+\n\tallegories-and-symbols, stars-and-planets
+\n\tforests-and-trees
+\n\thuman-anatomy, heads
+\n\tanimals, birds, owls
+\n\tspring, countryside
+\n\tfood-and-beverages
+\n\tboats-and-ships, Trieste, harbours-and-lighthouses
+\n\tallegories-and-symbols, beasts-and-dragons, Napoleon-Bonaparte
+\n\tChristianity, Cyrus-the-Great
+\n\tanimals, cats
+\n\tChristianity, Jesus-Christ, Crucifixion
+\n\thorsemen, Poster-for-Fiat-1400, Fiat
+\n\tcastles-and-fortresses, Izvara
+\n\tfemale-portraits
+\n\tallegories-and-symbols, The-Fotitude
+\n\tsins-and-sinners, fictional-characters, Dante-Alighieri-\"The-Divine-Comedy\"
+\n\trivers-and-waterfalls, mountains
+\n\tforests-and-trees, bridges-and-canals, clouds-and-sky
+\n\tstreets-and-squares, Paris
+\n\troads-and-vehicles
+\n\tallegories-and-symbols
+\n\tfemale-nude
+\n\tknights-and-warriors, fictional-characters, Alfred-Tennyson-'Idylls-of-the-King'
+\n\tChristianity, Good-Samaritan, parables-of-Jesus
+\n\tallegories-and-symbols, female-portraits
+\n\tfemale-portraits
+\n\tallegories-and-symbols, couples, Paris, Eiffel-tower, flying
+\n\tfruits-and-vegetables, food-and-beverages
+\n\tfruits-and-vegetables, food-and-beverages
+\n\tGreek-and-Roman-Mythology, nymphs-and-satyrs
+\n\tfictional-characters, Dante, Virgil, Dante-Alighieri-\"The-Divine-Comedy\"
+\n\tmoles-and-embankments, Basel, rain-and-fog
+\n\tarts-and-crafts
+\n\tanimals, cats, furniture-and-decoration, cows, leisure-and-sleep
+\n\tChristianity, female-nude, Joseph-(son-of-Jacob)
+\n\tChristianity, saints-and-apostles, Jesus-Christ
+\n\tanimals, horses, fictional-characters, Don-Quixote, Rocinante
+\n\tChristianity, angels-and-archangels, Adam-and-Eve
+\n\tfamous-people, female-portraits, Victoria-Eugenie-of-Battenberg
+\n\tanimals, fish, birds
+\n\tfemale-portraits
+\n\tallegories-and-symbols, birds
+\n\tflowers-and-plants
+\n\tflowers-and-plants
+\n\trivers-and-waterfalls, forests-and-trees
+\n\tcottages-and-farmhouses, forests-and-trees, mountains
+\n\tChristianity, saints-and-apostles, St.-Catherine-of-Siena, St.-Sigismund
+\n\tfemale-portraits
+\n\tmale-portraits
+\n\tanimals, children, horses
+female, figurative, nude
+\n\tmale-portraits
+\n\tfurniture-and-decoration, cafes-and-restaurants
+\n\tfemale-portraits
+\n\tmale-portraits
+\n\tfemale-portraits, leisure-and-sleep
+\n\tsun-and-moon, forests-and-trees
+\n\tboats-and-ships, seas-and-oceans, clouds-and-sky
+\n\tallegories-and-symbols, birds, arts-and-crafts
+\n\tfictional-characters, Ludovico-Ariosto-\"Orlando-Furioso\"
+\n\tknights-and-warriors, Jerusalem, fictional-characters, battles-and-wars, J-F.-Michaud-'Bibliotheque-des-Croisades'
+\n\tstreets-and-squares, houses-and-buildings, roads-and-vehicles
+\n\tmale-portraits
+\n\tdomestic-settings, couples, flying
+\n\tanimals, cats, female-nude
+\n\tfemale-portraits
+\n\tallegories-and-symbols, battles-and-wars, skeletons-and-skulls, flying
+\n\tGreek-and-Roman-Mythology, Helen
+\n\tmale-portraits, knights-and-warriors, weapons-and-armors
+\n\tanimals, battles-and-wars, bulls
+\n\tallegories-and-symbols
+\n\tChristianity, Virgin-and-Child, St. John the Baptist, angels-and-archangels
+\n\tPyotr-Tchaikovsky-\"Aleko\", scene-design
+\n\tGreek-and-Roman-Mythology, gods-and-goddesses, Aphrodite/Venus
+\n\tGreek-and-Roman-Mythology, tytans, Titanomachy
+\n\tdesigns-and-sketches
+\n\tfictional-characters, monuments-and-statues, Edgar-Allan-Poe-'The-Raven'
+\n\tfictional-characters, Charles-Perrault-'Histoires-ou-contes-du-temps-pass', Cinderella, Fairy-Godmother
+\n\tanimals, horses, fictional-characters, Don-Quixote, Rocinante
+\n\trivers-and-waterfalls, boats-and-ships
+\n\tcottages-and-farmhouses
+\n\tfictional-characters, spirits-and-ghosts, William-Shakespeare-'The-Tragedy-of-Macbeth'
+\n\tfemale-portraits
+\n\tChristianity, Saul, witches
+\n\tGreek-and-Roman-Mythology, fictional-characters, Dante-Alighieri-\"The-Divine-Comedy\", Arachne
+\n\tmale-nude
+\n\tChristianity, Old-Testament, Rachel, Leah
+\n\tspirits-and-ghosts
+\n\tChristianity, male-portraits, Virgin-and-Child
+\n\tfemale-portraits
+\n\tfictional-characters, Dante-Alighieri-\"The-Divine-Comedy\"
+\n\tfemale-nude
+\n\tGolden-Gates-of-Kiev
+\n\tfictional-characters, Gargantua, Franois-Rabelais-'Gargantua-and-Pantagruel'
+\n\tmountains, clouds-and-sky
+\n\tfictional-characters, Dante-Alighieri-\"The-Divine-Comedy\"
+\n\tstreets-and-squares, houses-and-buildings
+\n\tfictional-characters, Don-Quixote
+\n\tarts-and-crafts, pastoral-scenes
+\n\tanimals, male-portraits, famous-people, dogs, Charles V Holy Roman Emperor
+\n\tanimals, horses, jockeys
+\n\tcountryside, cottages-and-farmhouses
+\n\thuman-anatomy, parts-of-human-body
+\n\thorses, military-and-soldiers, battles-and-wars
+\n\tallegories-and-symbols
+\n\tChristianity, Salome, St. John the Baptist
+\n\thouses-and-buildings, lakes-and-ponds
+\n\tfictional-characters, Ludovico-Ariosto-\"Orlando-Furioso\"
+\n\troads-and-vehicles, railway, clouds-and-sky
+\n\tChristianity, Virgin-Mary
+\n\tChristianity, saints-and-apostles, Jesus-Christ, boats-and-ships, seas-and-oceans
+\n\tseas-and-oceans, beaches-and-shorelines
+\n\tfamily-portraits, couples
+\n\tChristianity, Great-Flood
+\n\tfemale-portraits
+\n\tanimals, horses, fictional-characters, Don-Quixote, Sancho-Panza
+\n\tanimals, horses, fictional-characters, Don-Quixote, Sancho-Panza
+\n\tanimals, horses, fictional-characters, Don-Quixote, Sancho-Panza
+\n\tanimals, horses, fictional-characters, Don-Quixote, Sancho-Panza
+\n\tanimals, horses, fictional-characters, Don-Quixote, Sancho-Panza
+\n\tanimals, lizards
+\n\tanimals, lizards
+\n\tmale-portraits, famous-people, Dr.-Pozzi
+\n\tChristianity, beasts-and-dragons, Archangel-Michael, angels-and-archangels
+\n\tChristianity, Jesus-Christ, Miracles
+\n\tChristianity, Jesus-Christ, Crucifixion, Calvary/Golgotha
+\n\tknights-and-warriors, boats-and-ships, fictional-characters, Alfred-Tennyson-'Idylls-of-the-King'
+\n\tfemale-portraits
+\n\tfurniture-and-decoration, cafes-and-restaurants
+\n\tChristianity, Jesus-Christ
+\n\tanimals, horses, jungles-and-tropics
+\n\tstreets-and-squares, houses-and-buildings, rain-and-fog
+\n\tallegories-and-symbols, fires-and-floods, Jesus-Christ, Crucifixion, troubles-and-disasters, revolutions
+\n\tanimals, birds, cows, hens
+\n\tallegories-and-symbols, Tahiti
+\n\tchildren, Greek-and-Roman-Mythology, gods-and-goddesses, Bacchus/Dionysus
+\n\tanimals, fictional-characters, Charles-Perrault-'Histoires-ou-contes-du-temps-pass', Little-Red-Riding-Hood, wolves
+\n\tflowers-and-plants
+\n\tChristianity, battles-and-wars, Jacob-Wrestling-with-the-Angel, angels-and-archangels, Jacob
+\n\tGreek-and-Roman-Mythology, Apollo, Marsyas
+\n\tforests-and-trees
+\n\tfemale-portraits
+\n\tfictional-characters, Charles-Perrault-'La-Barbe-bleue', Bluebeard
+\n\tmale-portraits, famous-people, Andy-Warhol
+\n\tfictional-characters, Alfred-Tennyson-'Idylls-of-the-King', Merlin
+\n\tanimals, children, cats, mealtimes, boats-and-ships, rainbows
+\n\tChristianity, saints-and-apostles, Augustine-of-Hippo
+\n\tfamous-people, Marc-Chagall
+\n\tSatan, fictional-characters, John-Milton-\"Paradise-Lost\"
+\n\tchildren
+\n\tanimals, horses
+\n\tChristianity, Jesus-Christ, Crucifixion, angels-and-archangels
+\n\tmale-portraits, famous-people, Ossian
+\n\thouses-and-buildings, islands-and-bays
+\n\tanimals, jaguar, jungles-and-tropics
+\n\tparts-of-human-body

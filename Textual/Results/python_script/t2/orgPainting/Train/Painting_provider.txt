@@ -1,0 +1,3 @@
+label:Painting|http://schema.org/Painting/provider
+www.gregbo.com
+www.gregbo.com

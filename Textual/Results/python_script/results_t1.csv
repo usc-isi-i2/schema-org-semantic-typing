@@ -1,0 +1,7 @@
+Data Set,MRR,Accuracy,CustomMRR,Number of Training Labels,Number of Testing Labels,Number of Testing Labels which are not present in training set,Train Time,Test Time,Total Time
+orgPainting, 0.75, 72.72727272727273%, 0.7792929292929294,50,33, 6.0,6.493,9.535,16.458
+orgCanal, 0.6730769230769231, 61.53846153846154%, 0.6730769230769231,14,13, 0.0,1.721,1.766,3.983
+
+Total Accuracy:69.5652173913
+Total MRR:0.728260869565
+Total CustomMRR:0.749275362319

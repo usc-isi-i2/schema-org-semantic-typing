@@ -1,0 +1,2 @@
+label:Painting|http://schema.org/Painting/\"name\"
+The Sander

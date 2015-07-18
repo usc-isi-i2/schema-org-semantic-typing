@@ -1,0 +1,17 @@
+label:Canal|http://schema.org/Canal/url
+http://www.touristlink.com/belgium/ghent-terneuzen-canal/overview.html
+http://www.touristlink.com/france/canal-du-midi/overview.html
+http://www.touristlink.com/italy/grand-canal/overview.html
+http://www.touristlink.com/italy/grand-canal/overview.html
+http://www.touristlink.com/italy/aqueduct-of-vanvitelli/photos.html
+http://www.touristlink.com/italy/aqueduct-of-vanvitelli/overview.html
+http://www.touristlink.com/india/indira-gandhi-canal-rajasthan/overview.html
+http://www.touristlink.com/belgium/brussels-scheldt-maritime-canal/overview.html
+http://www.touristlink.com/greece/corinth-canal/overview.html
+http://www.touristlink.com/belgium/albert-canal/photos.html
+http://www.touristlink.com/belgium/albert-canal/photos.html
+http://www.touristlink.com/belgium/albert-canal/overview.html
+http://www.touristlink.com/belgium/albert-canal/overview.html
+http://www.touristlink.com/netherlands/canals-of-amsterdam/overview.html
+http://www.touristlink.com/netherlands/canals-of-amsterdam/overview.html
+http://www.touristlink.com/austria/schwarzenberg-logging-canal/overview.html

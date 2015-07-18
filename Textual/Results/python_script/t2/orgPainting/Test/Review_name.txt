@@ -1,0 +1,9 @@
+label:Review|http://schema.org/Review/name
+\n\t  Love it        
+\n\t  Very Happy        
+\n\t  Custom mirror        
+\n\t  Three framed mirrors        
+\n\t  Framed mirror        
+\n\t  Custom Mirrors        
+\n\t  MBR        
+\n\t  Snow Angels Brightens up my kitchen area        

@@ -1,0 +1,3 @@
+label:Painting|http://schema.org/Painting/copyrightYear
+2013
+2013

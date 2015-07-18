@@ -1,0 +1,2 @@
+label:Product|http://schema.org/Product/url
+http://www.timoshin.ru/pejzazhi-maslom/kartina-plotina-afrodity-lefortovo.html

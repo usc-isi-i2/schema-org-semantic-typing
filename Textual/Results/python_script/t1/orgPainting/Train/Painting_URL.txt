@@ -1,0 +1,9 @@
+label:Painting|http://schema.org/Painting/URL
+http://www.britannica.com/EBchecked/topic/388735/Mona-Lisa/279558/The-Mona-Lisa-and-its-influence
+http://www.britannica.com/EBchecked/topic/388735/Mona-Lisa/279558/The-Mona-Lisa-and-its-influence
+http://www.britannica.com/EBchecked/topic/388735/Mona-Lisa/281695/Additional-Reading
+http://www.britannica.com/EBchecked/topic/388735/Mona-Lisa/279560/Mona-Lisa-off-the-wall
+http://www.britannica.com/EBchecked/topic/388735/Mona-Lisa/279559/Other-Mona-Lisas
+http://www.britannica.com/EBchecked/topic/356285/Maesta
+http://www.britannica.com/EBchecked/topic/356285/Maesta
+http://www.britannica.com/EBchecked/topic/356285/Maesta

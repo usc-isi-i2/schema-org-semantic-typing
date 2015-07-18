@@ -1,0 +1,3 @@
+label:Person|http://schema.org/Person/image
+http://alyoung.com/about/Ashton_R_Young_small.jpg
+http://alyoung.com/about/Elspeth_C_Young_small.jpg

@@ -1,0 +1,7 @@
+label:AggregateRating|http://schema.org/AggregateRating/ratingValue
+4
+5
+4.97
+5
+4.97
+5

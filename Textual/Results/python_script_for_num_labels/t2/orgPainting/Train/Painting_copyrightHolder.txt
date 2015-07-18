@@ -1,0 +1,3 @@
+label:Painting|http://schema.org/Painting/copyrightHolder
+Gregbo Watson
+Gregbo Watson

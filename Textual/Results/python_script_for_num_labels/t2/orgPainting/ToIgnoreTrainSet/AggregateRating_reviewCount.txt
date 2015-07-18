@@ -1,0 +1,4 @@
+label:AggregateRating|http://schema.org/AggregateRating/reviewCount
+8
+8
+13

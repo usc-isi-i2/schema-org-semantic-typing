@@ -1,0 +1,2 @@
+label:PostalAddress|http://schema.org/PostalAddress/addressLocality
+Chambly

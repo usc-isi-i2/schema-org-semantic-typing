@@ -1,0 +1,4 @@
+label:Painting|http://schema.org/Painting/publisher
+National Geographic Society
+National Geographic Society
+National Geographic Society

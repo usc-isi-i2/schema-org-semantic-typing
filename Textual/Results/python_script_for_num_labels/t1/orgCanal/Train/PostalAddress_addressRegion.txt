@@ -1,0 +1,9 @@
+label:PostalAddress|http://schema.org/PostalAddress/addressRegion
+Midi-Pyrnes Region
+Haute-Garonne
+Campania Region
+Rajasthan
+Peloponnese
+North Holland Province
+North Holland Province
+Upper Austria

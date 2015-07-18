@@ -1,0 +1,85 @@
+Correct Semantic Label :label:ImageObject|http://schema.org/ImageObject/url
+Predicted Semantic Labels : 
+Label: label:ImageObject|http://schema.org/ImageObject/url Score : 2.1349695
+Label: label:ImageObject|http://schema.org/ImageObject/contentURL Score : 1.8775691
+Label: label:Canal|http://schema.org/Canal/contentURL Score : 1.0271809
+Label: label:Canal|http://schema.org/Canal/image Score : 0.45967275
+********************************************************
+Correct Semantic Label :label:Canal|http://schema.org/Canal/URL
+Predicted Semantic Labels : 
+Label: label:Canal|http://schema.org/Canal/URL Score : 5.210753
+Label: label:Canal|http://schema.org/Canal/url Score : 0.11459845
+Label: label:Canal|http://schema.org/Canal/additionalType Score : 0.10958971
+Label: label:Canal|http://schema.org/Canal/image Score : 0.08159414
+********************************************************
+Correct Semantic Label :label:Canal|http://schema.org/Canal/additionalType
+Predicted Semantic Labels : 
+Label: label:Canal|http://schema.org/Canal/additionalType Score : 1.7049212
+Label: label:ImageObject|http://schema.org/ImageObject/url Score : 0.25379643
+Label: label:Canal|http://schema.org/Canal/url Score : 0.24943447
+Label: label:ImageObject|http://schema.org/ImageObject/contentURL Score : 0.08364354
+********************************************************
+Correct Semantic Label :label:ImageObject|http://schema.org/ImageObject/contentURL
+Predicted Semantic Labels : 
+Label: label:ImageObject|http://schema.org/ImageObject/contentURL Score : 2.2442236
+Label: label:ImageObject|http://schema.org/ImageObject/url Score : 1.8574477
+Label: label:Canal|http://schema.org/Canal/contentURL Score : 1.1301019
+Label: label:Canal|http://schema.org/Canal/image Score : 0.7182598
+********************************************************
+Correct Semantic Label :label:Canal|http://schema.org/Canal/image
+Predicted Semantic Labels : 
+Label: label:Canal|http://schema.org/Canal/image Score : 1.2495161
+Label: label:ImageObject|http://schema.org/ImageObject/contentURL Score : 0.32242623
+Label: label:ImageObject|http://schema.org/ImageObject/url Score : 0.2875455
+Label: label:Canal|http://schema.org/Canal/contentURL Score : 0.22521801
+********************************************************
+Correct Semantic Label :label:Canal|http://schema.org/Canal/name
+Predicted Semantic Labels : 
+Label: label:Canal|http://schema.org/Canal/name Score : 1.4292206
+Label: label:ImageObject|http://schema.org/ImageObject/name Score : 0.79628575
+Label: label:Canal|http://schema.org/Canal/description Score : 0.6499032
+Label: label:Canal|http://schema.org/Canal/URL Score : 0.5776836
+********************************************************
+Correct Semantic Label :label:Canal|http://schema.org/Canal/description
+Predicted Semantic Labels : 
+Label: label:Canal|http://schema.org/Canal/description Score : 2.509365
+Label: label:Canal|http://schema.org/Canal/name Score : 0.14332166
+Label: label:Canal|http://schema.org/Canal/photos Score : 0.08623
+Label: label:ImageObject|http://schema.org/ImageObject/name Score : 0.061605718
+********************************************************
+Correct Semantic Label :label:ImageObject|http://schema.org/ImageObject/name
+Predicted Semantic Labels : 
+Label: label:Canal|http://schema.org/Canal/name Score : 0.28324506
+Label: label:ImageObject|http://schema.org/ImageObject/name Score : 0.27701935
+Label: label:Canal|http://schema.org/Canal/description Score : 0.1899166
+Label: label:Canal|http://schema.org/Canal/URL Score : 0.09461554
+********************************************************
+Correct Semantic Label :label:Canal|http://schema.org/Canal/photos
+Predicted Semantic Labels : 
+Label: label:Canal|http://schema.org/Canal/description Score : 0.2200734
+Label: label:Canal|http://schema.org/Canal/name Score : 0.1745056
+Label: label:ImageObject|http://schema.org/ImageObject/contentURL Score : 0.10421459
+Label: label:Canal|http://schema.org/Canal/photos Score : 0.08989259
+********************************************************
+Correct Semantic Label :label:Canal|http://schema.org/Canal/url
+Predicted Semantic Labels : 
+Label: label:Canal|http://schema.org/Canal/url Score : 0.7901987
+Label: label:Canal|http://schema.org/Canal/additionalType Score : 0.24670728
+Label: label:ImageObject|http://schema.org/ImageObject/url Score : 0.12856701
+Label: label:Canal|http://schema.org/Canal/URL Score : 0.038449083
+********************************************************
+Correct Semantic Label :label:PostalAddress|http://schema.org/PostalAddress/addressRegion
+Predicted Semantic Labels : 
+Label: label:Canal|http://schema.org/Canal/description Score : 0.028768655
+********************************************************
+Correct Semantic Label :label:PostalAddress|http://schema.org/PostalAddress/addressLocality
+Predicted Semantic Labels : 
+Label: label:Canal|http://schema.org/Canal/photos Score : 0.29545835
+Label: label:ImageObject|http://schema.org/ImageObject/name Score : 0.25325
+Label: label:Canal|http://schema.org/Canal/name Score : 0.12062037
+Label: label:ImageObject|http://schema.org/ImageObject/url Score : 0.10338889
+********************************************************
+Correct Semantic Label :label:PostalAddress|http://schema.org/PostalAddress/addressCountry
+Predicted Semantic Labels : 
+Label: label:Canal|http://schema.org/Canal/description Score : 0.075919285
+********************************************************

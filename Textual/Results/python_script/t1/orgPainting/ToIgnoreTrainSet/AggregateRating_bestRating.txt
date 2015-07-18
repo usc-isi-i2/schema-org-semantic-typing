@@ -1,0 +1,4 @@
+label:AggregateRating|http://schema.org/AggregateRating/bestRating
+5
+5
+10

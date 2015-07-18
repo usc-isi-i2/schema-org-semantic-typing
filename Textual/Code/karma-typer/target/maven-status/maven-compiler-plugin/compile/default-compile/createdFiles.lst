@@ -1,0 +1,5 @@
+edu/isi/karma/semantictypes/typinghandler/LuceneBasedSTModelHandler.class
+edu/isi/karma/semantictypes/indexreader/ReadIndex2.class
+edu/isi/karma/semantictypes/tfIdf/Searcher.class
+edu/isi/karma/semantictypes/tfIdf/Indexer.class
+edu/isi/semantictypes/scoreCalculator/ScoreGetter.class

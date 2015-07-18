@@ -1,0 +1,388 @@
+label:Painting|http://schema.org/Painting/style
+Pop Art
+Social Realism
+Color Field Painting
+Early Renaissance
+Realism
+Expressionism
+Romanticism
+Social Realism
+Expressionism
+Purism
+High Renaissance
+Post-Impressionism
+Romanticism
+Pop Art
+Romanticism
+Baroque
+Surrealism
+Romanticism
+Romanticism
+Northern Renaissance
+Romanticism
+Romanticism
+Realism
+Romanticism
+Romanticism
+Suprematism
+Northern Renaissance
+Neoclassicism
+Romanticism
+Analytical Cubism
+Romanticism
+Pop Art
+Romanticism
+Tenebrism
+Muralismo
+Art Nouveau (Modern)
+Symbolism
+Surrealism
+Northern Renaissance
+Symbolism
+Rococo
+Early Renaissance
+Baroque
+Post-Impressionism
+Impressionism
+Early Renaissance
+Art Nouveau (Modern)
+Realism
+Arte Naf (Primitivismo)
+Neo-Expressionism
+Impressionism
+Romanticism
+Art Nouveau (Modern)
+New Realism
+Arte Naf (Primitivismo)
+Arte Naf (Primitivismo)
+High Renaissance
+Cubism
+Expressionism
+Expressionism
+Symbolism
+Romanticism
+Impressionism
+High Renaissance
+Rococo
+Baroque
+Symbolism
+Social Realism
+Expressionism
+Nave Art (Primitivism)
+Baroque
+High Renaissance
+Post-Impressionism
+Realism
+Realism
+Realism
+Northern Renaissance
+Romanticism
+Impressionism
+Post-Impressionism
+Romanticism
+High Renaissance
+Contemporary Realism
+Impressionism
+Post-Impressionism
+High Renaissance
+Realism
+Surrealism
+Realism
+High Renaissance
+Cubismo
+Realism
+Impressionism
+Romanticism
+Tenebrism
+Pointillism
+Expressionism
+Expressionism
+Post-Impressionism
+High Renaissance
+Realism
+Surrealism
+Neo-Expressionism
+Realism
+Northern Renaissance
+Symbolism
+Art Nouveau (Modern)
+Surrealism
+High Renaissance
+High Renaissance
+Post-Impressionism
+Baroque
+Romanticism
+Surrealism
+Symbolism
+Impressionism
+Romanticism
+Surrealism
+Pop Art
+Romanticism
+Realism
+Abstract Art
+Art Nouveau (Modern)
+Expressionism
+Abstract Expressionism
+Romanticism
+Expressionism
+Early Renaissance
+Romanticism
+New Realism
+Romanticism
+High Renaissance
+Art Nouveau (Modern)
+Muralismo
+Muralismo
+Surrealism
+Nave Art (Primitivism)
+Early Renaissance
+Purism
+Mannerism (Late Renaissance)
+High Renaissance
+Metaphysical art
+Baroque
+Romanticism
+Romanticism
+Impressionism
+Impressionism
+Symbolism
+Surrealism
+Post-Impressionism
+Romanticism
+Impressionism
+Romanticism
+Romanticism
+Post-Impressionism
+New Realism
+Dada
+Art Nouveau (Modern)
+Impressionism
+Surrealism
+Surrealism
+Romanticism
+Regionalism
+Neoclassicism
+Muralismo
+Post-Impressionism
+Romanticism
+Romanticism
+Mannerism (Late Renaissance)
+Byzantine
+Romanticism
+Muralismo
+Social Realism
+Romanticism
+Expressionism
+Early Renaissance
+Surrealism
+Symbolism
+Neo-Dada
+Realism
+Realism
+Expressionism
+Cubismo
+Romanticism
+Impressionism
+Muralismo
+Pop Art
+Art Nouveau (Modern)
+Surrealism
+Post-Impressionism
+Romanticism
+Post-Impressionism
+Early Renaissance
+Neo-baroque
+Realism
+Surrealism
+Romanticism
+Early Renaissance
+Romanticism
+Romanticism
+Romanticism
+Impresionismo
+Fauvism
+Surrealism
+Neo-Dada
+Romanticism
+Post-Impressionism
+Muralismo
+Impressionism
+Neoclassicism
+Art Nouveau (Modern)
+Neoplasticism
+Romanticism
+Cubism
+Post-Impressionism
+Posimpresionismo
+Symbolism
+Romanticism
+Arte Naf (Primitivismo)
+Post-Impressionism
+Expressionism
+Post-Impressionism
+Surrealism
+Mannerism (Late Renaissance)
+Expressionism
+Romanticism
+Neoclassicism
+Abstract Expressionism
+Impressionism
+Op Art
+Surrealism
+Surrealismo
+Color Field Painting
+Surrealism
+Post-Impressionism
+Posimpresionismo
+Fauvism
+Romanticism
+High Renaissance
+Baroque
+Surrealism
+Cubism
+Expressionism
+Romanticism
+Social Realism
+Post-Impressionism
+Romanticism
+Realism
+Surrealism
+Romanticism
+Surrealism
+Impressionism
+Op Art
+Romanticism
+Romanticism
+Impressionism
+Rococo
+Impressionism
+Nave Art (Primitivism)
+Cloisonnism
+Expressionism
+Surrealism
+Symbolism
+Surrealism
+Romanticism
+High Renaissance
+Mannerism (Late Renaissance)
+Neo-Expressionism
+Romanticism
+Art Nouveau (Modern)
+Color Field Painting
+High Renaissance
+Surrealism
+Rococo
+Romanticism
+Art Deco
+Romanticism
+Romanticism
+Neo-Dada
+Romanticism
+Neo-Expressionism
+Ukiyo-e
+Realism
+Impressionism
+Romanticism
+Abstract Expressionism
+Romanticism
+Realismo Social 
+Romanticism
+Abstract Art
+Pop Art
+High Renaissance
+Ukiyo-e
+Early Renaissance
+Conceptual Art
+Conceptual Art
+Rococo
+Romanticism
+Romanticism
+Surrealism
+Abstract Art
+Impressionism
+Romanticism
+Romanticism
+Romanticism
+Art Deco
+Impressionism
+Romanticism
+Realism
+High Renaissance
+Neo-Dada
+Impressionism
+Romanticismo
+Surrealism
+Nave Art (Primitivism)
+Northern Renaissance
+High Renaissance
+Suprematism
+Expressionism
+Symbolism
+Precisionism
+Romanticism
+Romanticism
+Northern Renaissance
+Mannerism (Late Renaissance)
+Romanticism
+High Renaissance
+Abstract Expressionism
+Art Dec
+Classicism
+Op Art
+Op Art
+Op Art
+Op Art
+-
+-
+Post-Impressionism
+Nave Art (Primitivism)
+Abstract Expressionism
+Romanticism
+Romanticismo
+Romanticism
+Op Art
+Op Art
+Muralismo
+Impressionism
+Realism
+Baroque
+Mannerism (Late Renaissance)
+ ( )
+Romanticism
+Romanticism
+Op Art
+Op Art
+New Realism
+Futurism
+Baroque
+Post-Impressionism
+Impressionism
+Nave Art (Primitivism)
+Surrealism
+Surrealism
+Post-Impressionism
+Baroque
+Romanticism
+Neoplasticism
+Precisionism
+Romanticism
+High Renaissance
+Realismo
+Post-Impressionism
+Romanticism
+Pop Art
+Romanticism
+Surrealism
+Early Renaissance
+Cubism
+Romanticism
+High Renaissance
+Romanticism
+Northern Renaissance
+Mannerism (Late Renaissance)
+Tenebrismo
+Neoclassicism
+Surrealism
+Nave Art (Primitivism)
+Post-Impressionism

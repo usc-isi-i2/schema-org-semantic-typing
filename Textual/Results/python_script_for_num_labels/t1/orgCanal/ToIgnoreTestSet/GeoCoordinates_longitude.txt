@@ -1,0 +1,3 @@
+label:GeoCoordinates|http://schema.org/GeoCoordinates/longitude
+32.3442
+-73.2575

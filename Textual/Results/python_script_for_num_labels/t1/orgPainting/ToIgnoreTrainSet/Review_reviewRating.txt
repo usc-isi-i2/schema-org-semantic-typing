@@ -1,0 +1,10 @@
+label:Review|http://schema.org/Review/reviewRating
+5
+3
+5
+5
+5
+5
+5
+5
+4

@@ -1,0 +1,2 @@
+label:ArtGallery|http://schema.org/ArtGallery/address
+\n\t\t    \t\t\t240 A1A North, Suite 13\n\t\t    \t\t\tPonte Vedra Beach, FL 32082\n\t\t    \t\t\t

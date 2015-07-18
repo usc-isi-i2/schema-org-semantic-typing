@@ -1,0 +1,2 @@
+Mean Reciprocal Rank of the testing datset : 0.6035353535353536
+Accuracy of the testing datset : 57.57575757575758%

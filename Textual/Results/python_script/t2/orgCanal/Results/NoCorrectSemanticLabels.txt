@@ -1,0 +1,6 @@
+The label is: label:ImageObject|http://schema.org/ImageObject/url
+The label is: label:Canal|http://schema.org/Canal/photos
+The label is: label:Canal|http://schema.org/Canal/url
+The label is: label:PostalAddress|http://schema.org/PostalAddress/addressRegion
+The label is: label:PostalAddress|http://schema.org/PostalAddress/addressLocality
+The label is: label:PostalAddress|http://schema.org/PostalAddress/addressCountry

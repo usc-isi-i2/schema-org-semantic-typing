@@ -1,0 +1,14 @@
+label:PostalAddress|http://schema.org/PostalAddress/addressCountry
+Belgium
+France
+Italy
+Italy
+Italy
+India
+Belgium
+Greece
+Belgium
+Belgium
+Netherlands
+Netherlands
+Austria

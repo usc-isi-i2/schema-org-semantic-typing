@@ -1,0 +1,61 @@
+label:Canal|http://schema.org/Canal/additionalType
+http://www.touristlink.com/belgium/ghent/cat/canals.html
+Canals near Ghent
+http://www.touristlink.com/belgium/ghent/cat/canals.html
+http://www.touristlink.com/belgium/ghent/cat/recreation_outdoor.html
+http://www.touristlink.com/france/toulouse/cat/heritage-sites.html
+http://www.touristlink.com/france/toulouse/cat/canals.html
+Canals near Toulouse
+http://www.touristlink.com/france/toulouse/cat/canals.html
+http://www.touristlink.com/france/toulouse/cat/recreation_outdoor.html
+Heritage Sites near Toulouse
+http://www.touristlink.com/italy/venice/cat/recreation_outdoor.html
+http://www.touristlink.com/italy/venice/cat/canals.html
+Canals near Venice
+http://www.touristlink.com/italy/venice/cat/canals.html
+http://www.touristlink.com/italy/venice/cat/recreation_outdoor.html
+http://www.touristlink.com/italy/venice/cat/canals.html
+Canals near Venice
+http://www.touristlink.com/italy/venice/cat/canals.html
+http://www.touristlink.com/italy/naples/cat/recreation_outdoor.html
+http://www.touristlink.com/italy/naples/cat/canals.html
+Canals near Naples, 
+http://www.touristlink.com/italy/naples/cat/canals.html
+Heritage Sites near Naples
+http://www.touristlink.com/italy/naples/cat/heritage-sites.html
+http://www.touristlink.com/india/rajasthan/cat/canals.html
+Canals in Rajasthan
+http://www.touristlink.com/india/rajasthan/cat/canals.html
+http://www.touristlink.com/india/rajasthan/cat/recreation_outdoor.html
+http://www.touristlink.com/belgium/brussels/cat/recreation_outdoor.html
+http://www.touristlink.com/belgium/brussels/cat/canals.html
+Canals near Brussels
+http://www.touristlink.com/belgium/brussels/cat/canals.html
+http://www.touristlink.com/greece/corinth/cat/canals.html
+http://www.touristlink.com/greece/corinth/cat/canals.html
+Canals near Corinth
+http://www.touristlink.com/greece/corinth/cat/recreation_outdoor.html
+http://www.touristlink.com/belgium/antwerp/cat/canals.html
+Canals near Antwerp
+http://www.touristlink.com/belgium/antwerp/cat/canals.html
+http://www.touristlink.com/belgium/antwerp/cat/recreation_outdoor.html
+http://www.touristlink.com/belgium/antwerp/cat/canals.html
+http://www.touristlink.com/belgium/antwerp/cat/recreation_outdoor.html
+Canals near Antwerp
+http://www.touristlink.com/belgium/antwerp/cat/canals.html
+http://www.touristlink.com/netherlands/amsterdam/cat/recreation_outdoor.html
+http://www.touristlink.com/netherlands/amsterdam/cat/canals.html
+Canals near Amsterdam
+http://www.touristlink.com/netherlands/amsterdam/cat/canals.html
+Heritage Sites near Amsterdam
+http://www.touristlink.com/netherlands/amsterdam/cat/heritage-sites.html
+Canals near Amsterdam
+http://www.touristlink.com/netherlands/amsterdam/cat/recreation_outdoor.html
+http://www.touristlink.com/netherlands/amsterdam/cat/canals.html
+http://www.touristlink.com/netherlands/amsterdam/cat/heritage-sites.html
+Heritage Sites near Amsterdam
+http://www.touristlink.com/netherlands/amsterdam/cat/canals.html
+http://www.touristlink.com/austria/cat/recreation_outdoor.html
+http://www.touristlink.com/austria/cat/canals.html
+Canals in Austria
+http://www.touristlink.com/austria/cat/canals.html

@@ -1,0 +1,2 @@
+label:ArtGallery|http://schema.org/ArtGallery/image
+http://stellersgallery.com/artists/originals/phil-sandusky//images/global/stellers-gallery-ponte-vedra.jpg

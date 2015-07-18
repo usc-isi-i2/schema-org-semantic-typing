@@ -1,0 +1,231 @@
+Correct Semantic Label :label:CreativeWork|http://schema.org/CreativeWork/author
+Predicted Semantic Labels : 
+Label: label:CreativeWork|http://schema.org/CreativeWork/author Score : 3.9517467
+Label: label:Corporation|http://schema.org/Corporation/url Score : 3.7296674
+Label: label:TouristInformationCenter|http://schema.org/TouristInformationCenter/url Score : 3.3779483
+Label: label:Restaurant|http://schema.org/Restaurant/Url Score : 3.3779483
+********************************************************
+Correct Semantic Label :label:ArtGallery|http://schema.org/ArtGallery/openingHours
+Predicted Semantic Labels : 
+Label: label:SportsEvent|http://schema.org/SportsEvent/performers Score : 1.8347927
+Label: label:SportsEvent|http://schema.org/SportsEvent/startDate Score : 1.6271323
+Label: label:CollegeOrUniversity|http://schema.org/CollegeOrUniversity/bulletins Score : 1.567398
+Label: label:PostalAddress|http://schema.org/PostalAddress/telephone Score : 1.27843
+********************************************************
+Correct Semantic Label :label:Painting|http://schema.org/Painting/URL
+Predicted Semantic Labels : 
+Label: label:Painting|http://schema.org/Painting/URL Score : 2.514795
+Label: label:Sculpture|http://schema.org/Sculpture/URL Score : 1.5119658
+Label: label:TVEpisode|http://schema.org/TVEpisode/URL Score : 1.500107
+Label: label:LandmarksOrHistoricalBuildings|http://schema.org/LandmarksOrHistoricalBuildings/URL Score : 1.4747587
+********************************************************
+Correct Semantic Label :label:Person|http://schema.org/Person/url
+Predicted Semantic Labels : 
+Label: label:Painting|http://schema.org/Painting/thumbnailUrl Score : 0.6226786
+Label: label:Painting|http://schema.org/Painting/image Score : 0.33876318
+Label: label:Person|http://schema.org/Person/url Score : 0.24390066
+Label: label:Corporation|http://schema.org/Corporation/url Score : 0.19318147
+********************************************************
+Correct Semantic Label :label:Offer|http://schema.org/Offer/availability
+Predicted Semantic Labels : 
+Label: label:Offer|http://schema.org/Offer/availability Score : 30.671076
+Label: label:ItemAvailability|http://schema.org/ItemAvailability/availability Score : 12.139794
+Label: label:SoftwareApplication|http://schema.org/SoftwareApplication/softwareApplicationCategory Score : 10.649379
+Label: label:BarOrPub|http://schema.org/BarOrPub/AdditionalType Score : 10.394548
+********************************************************
+Correct Semantic Label :label:Painting|http://schema.org/Painting/keywords
+Predicted Semantic Labels : 
+Label: label:Painting|http://schema.org/Painting/keywords Score : 2.4700377
+Label: label:UserComments|http://schema.org/UserComments/discusses Score : 0.9388924
+Label: label:City|http://schema.org/City/email Score : 0.84462947
+Label: label:LocalBusiness|http://schema.org/LocalBusiness/address Score : 0.84254813
+********************************************************
+Correct Semantic Label :label:ArtGallery|http://schema.org/ArtGallery/image
+Predicted Semantic Labels : 
+Label: label:GovernmentOrganization|http://schema.org/GovernmentOrganization/logo Score : 0.091506265
+Label: label:Brand|http://schema.org/Brand/logo Score : 0.07398932
+Label: label:Library|http://schema.org/Library/logo Score : 0.071292676
+Label: label:Hospital|http://schema.org/Hospital/image Score : 0.071184635
+********************************************************
+Correct Semantic Label :label:Painting|http://schema.org/Painting/currency
+Predicted Semantic Labels : 
+Label: label:Painting|http://schema.org/Painting/currency Score : 13.017746
+Label: label:EducationalOrganization|http://schema.org/EducationalOrganization/currenciesAccepted Score : 10.398082
+Label: label:Restaurant|http://schema.org/Restaurant/currenciesAccepted Score : 9.464629
+Label: label:LodgingBusiness|http://schema.org/LodgingBusiness/currenciesAccepted Score : 1.0170114
+********************************************************
+Correct Semantic Label :label:ArtGallery|http://schema.org/ArtGallery/url
+Predicted Semantic Labels : 
+Label: label:TouristInformationCenter|http://schema.org/TouristInformationCenter/url Score : 0.12160326
+Label: label:Restaurant|http://schema.org/Restaurant/Url Score : 0.12160326
+Label: label:CollegeOrUniverstiy|http://schema.org/CollegeOrUniverstiy/url Score : 0.12160326
+Label: label:Hospital|http://schema.org/Hospital/brand Score : 0.12160326
+********************************************************
+Correct Semantic Label :label:Review|http://schema.org/Review/author
+Predicted Semantic Labels : 
+Label: label:TVEpisode|http://schema.org/TVEpisode/heading Score : 0.12825716
+Label: label:Physician|http://schema.org/Physician/name Score : 0.12691736
+Label: label:Person|http://schema.org/Person/name Score : 0.11369503
+Label: label:Attorney|http://schema.org/Attorney/name Score : 0.110299855
+********************************************************
+Correct Semantic Label :label:Painting|http://schema.org/Painting/author
+Predicted Semantic Labels : 
+Label: label:Painting|http://schema.org/Painting/author Score : 13.95585
+Label: label:Product|http://schema.org/Product/name Score : 4.924164
+Label: label:Offer|http://schema.org/Offer/name Score : 4.7086425
+Label: label:CollegeOrUniversity|http://schema.org/CollegeOrUniversity/address Score : 4.188001
+********************************************************
+Correct Semantic Label :label:Painting|http://schema.org/Painting/style
+Predicted Semantic Labels : 
+Label: label:Painting|http://schema.org/Painting/style Score : 17.774267
+Label: label:Museum|http://schema.org/Museum/description Score : 0.41524696
+Label: label:Museum|http://schema.org/Museum/name Score : 0.27681088
+Label: label:CreativeWork|http://schema.org/CreativeWork/text Score : 0.26267332
+********************************************************
+Correct Semantic Label :label:Offer|http://schema.org/Offer/price
+Predicted Semantic Labels : 
+Label: label:Painting|http://schema.org/Painting/currency Score : 3.5908792
+Label: label:EducationalOrganization|http://schema.org/EducationalOrganization/currenciesAccepted Score : 2.8682582
+Label: label:Restaurant|http://schema.org/Restaurant/currenciesAccepted Score : 2.61077
+Label: label:Offer|http://schema.org/Offer/price Score : 2.271626
+********************************************************
+Correct Semantic Label :label:Painting|http://schema.org/Painting/thumbnailUrl
+Predicted Semantic Labels : 
+Label: label:Painting|http://schema.org/Painting/thumbnailUrl Score : 16.02779
+Label: label:Painting|http://schema.org/Painting/contentURL Score : 6.8403177
+Label: label:Painting|http://schema.org/Painting/image Score : 2.549752
+Label: label:CollegeOrUniversity|http://schema.org/CollegeOrUniversity/logo Score : 2.2288685
+********************************************************
+Correct Semantic Label :label:Painting|http://schema.org/Painting/genre
+Predicted Semantic Labels : 
+Label: label:Painting|http://schema.org/Painting/genre Score : 25.379065
+Label: label:Painting|http://schema.org/Painting/name Score : 1.9588641
+Label: label:Painting|http://schema.org/Painting/description Score : 1.8948832
+Label: label:Painting|http://schema.org/Painting/question Score : 1.390948
+********************************************************
+Correct Semantic Label :label:Offer|http://schema.org/Offer/priceCurrency
+Predicted Semantic Labels : 
+Label: label:Restaurant|http://schema.org/Restaurant/currenciesAccepted Score : 0.8352699
+Label: label:LodgingBusiness|http://schema.org/LodgingBusiness/currenciesAccepted Score : 0.82670283
+Label: label:Offer|http://schema.org/Offer/priceCurrency Score : 0.73556423
+Label: label:Restaurant|http://schema.org/Restaurant/priceRange Score : 0.18677203
+********************************************************
+Correct Semantic Label :label:Painting|http://schema.org/Painting/name
+Predicted Semantic Labels : 
+Label: label:Painting|http://schema.org/Painting/name Score : 1.2634922
+Label: label:Review|http://schema.org/Review/reviewBody Score : 0.8358332
+Label: label:Review|http://schema.org/Review/description Score : 0.6818015
+Label: label:TVEpisode|http://schema.org/TVEpisode/description Score : 0.56664795
+********************************************************
+Correct Semantic Label :label:Review|http://schema.org/Review/name
+Predicted Semantic Labels : 
+Label: label:Painting|http://schema.org/Painting/description Score : 1.1930927
+Label: label:CreativeWork|http://schema.org/CreativeWork/text Score : 1.1644802
+Label: label:Restaurant|http://schema.org/Restaurant/menu Score : 1.059681
+Label: label:Article|http://schema.org/Article/articleBody Score : 0.93666637
+********************************************************
+Correct Semantic Label :label:ArtGallery|http://schema.org/ArtGallery/name
+Predicted Semantic Labels : 
+Label: label:Organization|http://schema.org/Organization/image Score : 0.14503571
+Label: label:TouristAttraction|http://schema.org/TouristAttraction/name Score : 0.08831247
+Label: label:Hotel|http://schema.org/Hotel/image Score : 0.075978145
+Label: label:Place|http://schema.org/Place/name Score : 0.07122226
+********************************************************
+Correct Semantic Label :label:Review|http://schema.org/Review/datePublished
+Predicted Semantic Labels : 
+Label: label:EducationalOrganization|http://schema.org/EducationalOrganization/availabilityStarts Score : 2.1256983
+Label: label:ImageObject|http://schema.org/ImageObject/dateModified Score : 1.9508816
+Label: label:Comment|http://schema.org/Comment/datePublished Score : 1.8682532
+Label: label:BlogPosting|http://schema.org/BlogPosting/datePublished Score : 1.774126
+********************************************************
+Correct Semantic Label :label:Review|http://schema.org/Review/thumbnailUrl
+Predicted Semantic Labels : 
+Label: label:Offer|http://schema.org/Offer/image Score : 0.43114108
+Label: label:CreativeWork|http://schema.org/CreativeWork/image Score : 0.43057668
+Label: label:TVEpisode|http://schema.org/TVEpisode/image Score : 0.37568668
+Label: label:TVSerie|http://schema.org/TVSerie/image Score : 0.36793822
+********************************************************
+Correct Semantic Label :label:Painting|http://schema.org/Painting/description
+Predicted Semantic Labels : 
+Label: label:Painting|http://schema.org/Painting/description Score : 26.00018
+Label: label:Restaurant|http://schema.org/Restaurant/menu Score : 11.02743
+Label: label:CreativeWork|http://schema.org/CreativeWork/text Score : 9.705239
+Label: label:Article|http://schema.org/Article/articleBody Score : 9.244977
+********************************************************
+Correct Semantic Label :label:Painting|http://schema.org/Painting/creator
+Predicted Semantic Labels : 
+Label: label:Painting|http://schema.org/Painting/creator Score : 6.312188
+Label: label:Painting|http://schema.org/Painting/url Score : 0.39342773
+Label: label:Disease|http://schema.org/Disease/recommendedSpecialistListUrl Score : 0.28199473
+Label: label:Drug|http://schema.org/Drug/url Score : 0.27586973
+********************************************************
+Correct Semantic Label :label:ArtGallery|http://schema.org/ArtGallery/telephone
+Predicted Semantic Labels : 
+Label: label:Restaurant|http://schema.org/Restaurant/telephone Score : 0.038873732
+Label: label:Restaurant|http://schema.org/Restaurant/contactPoints Score : 0.02529869
+Label: label:PostalAddress|http://schema.org/PostalAddress/telephone Score : 0.025131235
+Label: label:EducationalEvent|http://schema.org/EducationalEvent/image Score : 0.009428265
+********************************************************
+Correct Semantic Label :label:Painting|http://schema.org/Painting/contentURL
+Predicted Semantic Labels : 
+Label: label:Painting|http://schema.org/Painting/contentURL Score : 19.004543
+Label: label:Painting|http://schema.org/Painting/thumbnailUrl Score : 7.5057745
+Label: label:CollegeOrUniversity|http://schema.org/CollegeOrUniversity/logo Score : 2.3430436
+Label: label:Book|http://schema.org/Book/image Score : 1.9346651
+********************************************************
+Correct Semantic Label :label:CreativeWork|http://schema.org/CreativeWork/image
+Predicted Semantic Labels : 
+Label: label:CreativeWork|http://schema.org/CreativeWork/image Score : 81.310326
+Label: label:Offer|http://schema.org/Offer/image Score : 5.490789
+Label: label:TVEpisode|http://schema.org/TVEpisode/image Score : 5.286387
+Label: label:TVSerie|http://schema.org/TVSerie/image Score : 4.966957
+********************************************************
+Correct Semantic Label :label:Painting|http://schema.org/Painting/technique
+Predicted Semantic Labels : 
+Label: label:Painting|http://schema.org/Painting/technique Score : 25.788635
+Label: label:description|http://schema.org/Restaurant/description/specialFeatures Score : 2.826214
+Label: label:AggregateRating|http://schema.org/AggregateRating/ingredients Score : 1.7306957
+Label: label:BlogPosting|http://schema.org/BlogPosting/name Score : 1.3583757
+********************************************************
+Correct Semantic Label :label:Painting|http://schema.org/Painting/url
+Predicted Semantic Labels : 
+Label: label:Painting|http://schema.org/Painting/url Score : 5.8265357
+Label: label:Painting|http://schema.org/Painting/thumbnailUrl Score : 1.7792755
+Label: label:Painting|http://schema.org/Painting/contentURL Score : 1.2092745
+Label: label:Painting|http://schema.org/Painting/image Score : 0.39296016
+********************************************************
+Correct Semantic Label :label:Person|http://schema.org/Person/name
+Predicted Semantic Labels : 
+Label: label:UserComments|http://schema.org/UserComments/discusses Score : 4.917925
+Label: label:RealEstateAgent|http://schema.org/RealEstateAgent/name Score : 4.517479
+Label: label:City|http://schema.org/City/email Score : 4.424175
+Label: label:Restaurant|http://schema.org/Restaurant/price Score : 4.3748984
+********************************************************
+Correct Semantic Label :label:Painting|http://schema.org/Painting/image
+Predicted Semantic Labels : 
+Label: label:Painting|http://schema.org/Painting/image Score : 18.832336
+Label: label:Painting|http://schema.org/Painting/thumbnailUrl Score : 3.2792559
+Label: label:Organization|http://schema.org/Organization/image Score : 2.8320444
+Label: label:TVSeason|http://schema.org/TVSeason/image Score : 2.5925527
+********************************************************
+Correct Semantic Label :label:Painting|http://schema.org/Painting/publisher
+Predicted Semantic Labels : 
+Label: label:Painting|http://schema.org/Painting/publisher Score : 4.930604
+Label: label:GovernmentOrganization|http://schema.org/GovernmentOrganization/description Score : 0.4552769
+Label: label:NGO|http://schema.org/NGO/description Score : 0.39242864
+Label: label:EducationalEvent|http://schema.org/EducationalEvent/name Score : 0.3620745
+********************************************************
+Correct Semantic Label :label:Review|http://schema.org/Review/reviewBody
+Predicted Semantic Labels : 
+Label: label:Review|http://schema.org/Review/reviewBody Score : 0.9985136
+Label: label:Review|http://schema.org/Review/description Score : 0.88125426
+Label: label:WebPage|http://schema.org/WebPage/description Score : 0.84017456
+Label: label:Comment|http://schema.org/Comment/text Score : 0.7938475
+********************************************************
+Correct Semantic Label :label:ArtGallery|http://schema.org/ArtGallery/address
+Predicted Semantic Labels : 
+Label: label:PostalAddress|http://schema.org/PostalAddress/streetAddress Score : 2.0227516
+Label: label:Offer|http://schema.org/Offer/name Score : 1.5403057
+Label: label:EducationEvent|http://schema.org/EducationEvent/performers Score : 1.4942073
+Label: label:SportsEvent|http://schema.org/SportsEvent/name Score : 1.4892852
+********************************************************

@@ -1,0 +1,2 @@
+label:Offer|http://schema.org/Offer/priceCurrency
+EUR

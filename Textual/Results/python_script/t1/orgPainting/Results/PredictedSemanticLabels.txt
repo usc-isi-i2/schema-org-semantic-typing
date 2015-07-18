@@ -1,0 +1,221 @@
+Correct Semantic Label :label:CreativeWork|http://schema.org/CreativeWork/author
+Predicted Semantic Labels : 
+Label: label:CreativeWork|http://schema.org/CreativeWork/author Score : 12.2654915
+Label: label:Person|http://schema.org/Person/url Score : 6.3536854
+Label: label:Offer|http://schema.org/Offer/availability Score : 5.4142714
+Label: label:Person|http://schema.org/Person/image Score : 4.62151
+********************************************************
+Correct Semantic Label :label:ArtGallery|http://schema.org/ArtGallery/openingHours
+Predicted Semantic Labels : 
+Label: label:Painting|http://schema.org/Painting/description Score : 1.3954924
+Label: label:Product|http://schema.org/Product/description Score : 0.69164217
+Label: label:Painting|http://schema.org/Painting/author Score : 0.6648235
+Label: label:Review|http://schema.org/Review/name Score : 0.64442796
+********************************************************
+Correct Semantic Label :label:Painting|http://schema.org/Painting/URL
+Predicted Semantic Labels : 
+Label: label:Painting|http://schema.org/Painting/URL Score : 1.850145
+Label: label:CreativeWork|http://schema.org/CreativeWork/author Score : 0.03784143
+Label: label:Offer|http://schema.org/Offer/availability Score : 0.035372507
+Label: label:Person|http://schema.org/Person/url Score : 0.031122476
+********************************************************
+Correct Semantic Label :label:Person|http://schema.org/Person/url
+Predicted Semantic Labels : 
+Label: label:Person|http://schema.org/Person/url Score : 2.5517774
+Label: label:Painting|http://schema.org/Painting/thumbnailUrl Score : 0.5584025
+Label: label:Painting|http://schema.org/Painting/image Score : 0.41670454
+Label: label:CreativeWork|http://schema.org/CreativeWork/author Score : 0.40034795
+********************************************************
+Correct Semantic Label :label:Offer|http://schema.org/Offer/availability
+Predicted Semantic Labels : 
+Label: label:Offer|http://schema.org/Offer/availability Score : 23.06316
+Label: label:CreativeWork|http://schema.org/CreativeWork/author Score : 0.84700584
+Label: label:Person|http://schema.org/Person/url Score : 0.6966153
+Label: label:Person|http://schema.org/Person/image Score : 0.67581606
+********************************************************
+Correct Semantic Label :label:Painting|http://schema.org/Painting/keywords
+Predicted Semantic Labels : 
+Label: label:Painting|http://schema.org/Painting/keywords Score : 2.388415
+Label: label:Product|http://schema.org/Product/description Score : 1.4089985
+Label: label:Person|http://schema.org/Person/name Score : 1.4058056
+Label: label:Review|http://schema.org/Review/name Score : 0.83929735
+********************************************************
+Correct Semantic Label :label:ArtGallery|http://schema.org/ArtGallery/image
+Predicted Semantic Labels : 
+Label: label:Painting|http://schema.org/Painting/image Score : 0.12856871
+Label: label:Person|http://schema.org/Person/url Score : 0.068046935
+Label: label:Painting|http://schema.org/Painting/thumbnailUrl Score : 0.032361742
+Label: label:Painting|http://schema.org/Painting/creator Score : 0.026470479
+********************************************************
+Correct Semantic Label :label:Painting|http://schema.org/Painting/currency
+Predicted Semantic Labels : 
+Label: label:Painting|http://schema.org/Painting/currency Score : 9.34091
+Label: label:Offer|http://schema.org/Offer/price Score : 4.5472026
+********************************************************
+Correct Semantic Label :label:ArtGallery|http://schema.org/ArtGallery/url
+Predicted Semantic Labels : 
+Label: label:CreativeWork|http://schema.org/CreativeWork/author Score : 0.21309096
+Label: label:Offer|http://schema.org/Offer/availability Score : 0.19918805
+Label: label:Person|http://schema.org/Person/url Score : 0.17525548
+Label: label:Person|http://schema.org/Person/image Score : 0.17002279
+********************************************************
+Correct Semantic Label :label:Review|http://schema.org/Review/author
+Predicted Semantic Labels : 
+Label: label:Painting|http://schema.org/Painting/creator Score : 0.024628615
+Label: label:Painting|http://schema.org/Painting/name Score : 0.0027776326
+Label: label:Person|http://schema.org/Person/name Score : 0.002399649
+Label: label:Painting|http://schema.org/Painting/author Score : 0.0023234503
+********************************************************
+Correct Semantic Label :label:Painting|http://schema.org/Painting/author
+Predicted Semantic Labels : 
+Label: label:Painting|http://schema.org/Painting/author Score : 14.861049
+Label: label:Painting|http://schema.org/Painting/description Score : 7.968098
+Label: label:CreativeWork|http://schema.org/CreativeWork/author Score : 3.215324
+Label: label:Person|http://schema.org/Person/url Score : 2.0425758
+********************************************************
+Correct Semantic Label :label:Painting|http://schema.org/Painting/style
+Predicted Semantic Labels : 
+Label: label:Painting|http://schema.org/Painting/style Score : 14.340028
+Label: label:Painting|http://schema.org/Painting/description Score : 0.14533125
+Label: label:Painting|http://schema.org/Painting/alternativeHeadline Score : 0.13244154
+Label: label:Painting|http://schema.org/Painting/creator Score : 0.045196358
+********************************************************
+Correct Semantic Label :label:Offer|http://schema.org/Offer/price
+Predicted Semantic Labels : 
+Label: label:Offer|http://schema.org/Offer/price Score : 13.470343
+Label: label:Painting|http://schema.org/Painting/currency Score : 2.6315188
+Label: label:Painting|http://schema.org/Painting/description Score : 0.017585145
+Label: label:Article|http://schema.org/Article/articleBody Score : 0.013639182
+********************************************************
+Correct Semantic Label :label:Painting|http://schema.org/Painting/thumbnailUrl
+Predicted Semantic Labels : 
+Label: label:Painting|http://schema.org/Painting/thumbnailUrl Score : 11.25941
+Label: label:Painting|http://schema.org/Painting/contentURL Score : 6.027029
+Label: label:Painting|http://schema.org/Painting/image Score : 1.7946672
+Label: label:Painting|http://schema.org/Painting/url Score : 0.6697686
+********************************************************
+Correct Semantic Label :label:Painting|http://schema.org/Painting/genre
+Predicted Semantic Labels : 
+Label: label:Painting|http://schema.org/Painting/genre Score : 16.449379
+Label: label:LocalBusiness|http://schema.org/LocalBusiness/name Score : 1.8391167
+Label: label:Painting|http://schema.org/Painting/description Score : 1.185951
+Label: label:Painting|http://schema.org/Painting/name Score : 1.1471974
+********************************************************
+Correct Semantic Label :label:Offer|http://schema.org/Offer/priceCurrency
+Predicted Semantic Labels : 
+Label: label:Offer|http://schema.org/Offer/priceCurrency Score : 5.9663916
+********************************************************
+Correct Semantic Label :label:Painting|http://schema.org/Painting/name
+Predicted Semantic Labels : 
+Label: label:Painting|http://schema.org/Painting/name Score : 1.017846
+Label: label:Painting|http://schema.org/Painting/description Score : 0.4226355
+Label: label:Painting|http://schema.org/Painting/image Score : 0.36663297
+Label: label:Painting|http://schema.org/Painting/author Score : 0.34721255
+********************************************************
+Correct Semantic Label :label:Review|http://schema.org/Review/name
+Predicted Semantic Labels : 
+Label: label:Painting|http://schema.org/Painting/description Score : 1.7198311
+Label: label:Painting|http://schema.org/Painting/author Score : 0.858694
+Label: label:Product|http://schema.org/Product/description Score : 0.7759405
+Label: label:Review|http://schema.org/Review/name Score : 0.6190273
+********************************************************
+Correct Semantic Label :label:ArtGallery|http://schema.org/ArtGallery/name
+Predicted Semantic Labels : 
+Label: label:Painting|http://schema.org/Painting/url Score : 0.055858947
+Label: label:Review|http://schema.org/Review/name Score : 0.029685883
+Label: label:Painting|http://schema.org/Painting/description Score : 0.023705618
+Label: label:Painting|http://schema.org/Painting/thumbnailUrl Score : 0.022734473
+********************************************************
+Correct Semantic Label :label:Review|http://schema.org/Review/datePublished
+Predicted Semantic Labels : 
+Label: label:Review|http://schema.org/Review/datePublished Score : 3.3419771
+Label: label:Painting|http://schema.org/Painting/description Score : 0.19291754
+Label: label:Painting|http://schema.org/Painting/thumbnailUrl Score : 0.05567517
+Label: label:Painting|http://schema.org/Painting/image Score : 0.033386845
+********************************************************
+Correct Semantic Label :label:Review|http://schema.org/Review/thumbnailUrl
+Predicted Semantic Labels : 
+Label: label:CreativeWork|http://schema.org/CreativeWork/image Score : 0.66819245
+Label: label:Review|http://schema.org/Review/thumbnailUrl Score : 0.6427574
+Label: label:Painting|http://schema.org/Painting/thumbnailUrl Score : 0.48222923
+Label: label:Painting|http://schema.org/Painting/image Score : 0.4709163
+********************************************************
+Correct Semantic Label :label:Painting|http://schema.org/Painting/description
+Predicted Semantic Labels : 
+Label: label:Painting|http://schema.org/Painting/description Score : 33.42866
+Label: label:Painting|http://schema.org/Painting/author Score : 4.2625003
+Label: label:Product|http://schema.org/Product/description Score : 2.2257035
+Label: label:Review|http://schema.org/Review/name Score : 2.212254
+********************************************************
+Correct Semantic Label :label:Painting|http://schema.org/Painting/creator
+Predicted Semantic Labels : 
+Label: label:Painting|http://schema.org/Painting/creator Score : 4.09823
+Label: label:Painting|http://schema.org/Painting/url Score : 0.31743258
+Label: label:Painting|http://schema.org/Painting/author Score : 0.23044904
+Label: label:Painting|http://schema.org/Painting/image Score : 0.21700434
+********************************************************
+Correct Semantic Label :label:ArtGallery|http://schema.org/ArtGallery/telephone
+Predicted Semantic Labels : 
+********************************************************
+Correct Semantic Label :label:Painting|http://schema.org/Painting/contentURL
+Predicted Semantic Labels : 
+Label: label:Painting|http://schema.org/Painting/contentURL Score : 13.45319
+Label: label:Painting|http://schema.org/Painting/thumbnailUrl Score : 6.359304
+Label: label:Painting|http://schema.org/Painting/url Score : 0.44737005
+Label: label:CreativeWork|http://schema.org/CreativeWork/author Score : 0.12929167
+********************************************************
+Correct Semantic Label :label:CreativeWork|http://schema.org/CreativeWork/image
+Predicted Semantic Labels : 
+Label: label:CreativeWork|http://schema.org/CreativeWork/image Score : 54.920776
+Label: label:Review|http://schema.org/Review/thumbnailUrl Score : 6.059746
+Label: label:Painting|http://schema.org/Painting/thumbnailUrl Score : 5.4797697
+Label: label:Painting|http://schema.org/Painting/image Score : 4.665057
+********************************************************
+Correct Semantic Label :label:Painting|http://schema.org/Painting/technique
+Predicted Semantic Labels : 
+Label: label:Painting|http://schema.org/Painting/technique Score : 21.366547
+Label: label:Product|http://schema.org/Product/description Score : 3.0439842
+Label: label:Review|http://schema.org/Review/reviewBody Score : 1.1137918
+Label: label:Painting|http://schema.org/Painting/description Score : 0.97973275
+********************************************************
+Correct Semantic Label :label:Painting|http://schema.org/Painting/url
+Predicted Semantic Labels : 
+Label: label:Painting|http://schema.org/Painting/url Score : 3.7489145
+Label: label:Painting|http://schema.org/Painting/thumbnailUrl Score : 1.3279047
+Label: label:Painting|http://schema.org/Painting/contentURL Score : 0.6389142
+Label: label:Painting|http://schema.org/Painting/image Score : 0.5896535
+********************************************************
+Correct Semantic Label :label:Person|http://schema.org/Person/name
+Predicted Semantic Labels : 
+Label: label:Person|http://schema.org/Person/name Score : 33.25131
+Label: label:Product|http://schema.org/Product/description Score : 4.9200315
+Label: label:Painting|http://schema.org/Painting/keywords Score : 3.0682902
+Label: label:Review|http://schema.org/Review/name Score : 2.9971557
+********************************************************
+Correct Semantic Label :label:Painting|http://schema.org/Painting/image
+Predicted Semantic Labels : 
+Label: label:Painting|http://schema.org/Painting/image Score : 14.041105
+Label: label:Painting|http://schema.org/Painting/thumbnailUrl Score : 2.779769
+Label: label:Review|http://schema.org/Review/thumbnailUrl Score : 2.0189302
+Label: label:CreativeWork|http://schema.org/CreativeWork/image Score : 1.8322756
+********************************************************
+Correct Semantic Label :label:Painting|http://schema.org/Painting/publisher
+Predicted Semantic Labels : 
+Label: label:Painting|http://schema.org/Painting/publisher Score : 5.02973
+Label: label:Painting|http://schema.org/Painting/description Score : 0.10461208
+Label: label:Painting|http://schema.org/Painting/creator Score : 0.026106346
+********************************************************
+Correct Semantic Label :label:Review|http://schema.org/Review/reviewBody
+Predicted Semantic Labels : 
+Label: label:Review|http://schema.org/Review/reviewBody Score : 0.6379249
+Label: label:Painting|http://schema.org/Painting/description Score : 0.47968733
+Label: label:Painting|http://schema.org/Painting/name Score : 0.13656238
+Label: label:Article|http://schema.org/Article/articleBody Score : 0.119762756
+********************************************************
+Correct Semantic Label :label:ArtGallery|http://schema.org/ArtGallery/address
+Predicted Semantic Labels : 
+Label: label:Painting|http://schema.org/Painting/description Score : 2.128665
+Label: label:Review|http://schema.org/Review/name Score : 1.3856137
+Label: label:Product|http://schema.org/Product/description Score : 1.2440032
+Label: label:Painting|http://schema.org/Painting/author Score : 0.95691127
+********************************************************

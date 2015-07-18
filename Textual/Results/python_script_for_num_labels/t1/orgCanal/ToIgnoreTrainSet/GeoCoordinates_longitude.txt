@@ -1,0 +1,14 @@
+label:GeoCoordinates|http://schema.org/GeoCoordinates/longitude
+3.84
+1.4184
+12.3346
+12.3346
+14.4017
+73.0756
+4.357
+22.9839
+5.1907
+5.1907
+4.8974
+4.8974
+14.0309

@@ -1,0 +1,3 @@
+label:Painting|http://schema.org/Painting/accountablePerson
+Gregbo Watson
+Gregbo Watson

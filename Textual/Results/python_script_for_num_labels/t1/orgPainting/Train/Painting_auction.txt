@@ -1,0 +1,3 @@
+label:Painting|http://schema.org/Painting/auction
+Sotheby's
+Christie's

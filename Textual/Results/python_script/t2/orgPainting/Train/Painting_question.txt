@@ -1,0 +1,3 @@
+label:Painting|http://schema.org/Painting/question
+Good art therapy, have you ever drawn or sketched an old boot or shoe every now and then
+Have you ever let yourself go in your painting style

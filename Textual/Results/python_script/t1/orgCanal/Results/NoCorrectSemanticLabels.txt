@@ -1,0 +1,3 @@
+The label is: label:PostalAddress|http://schema.org/PostalAddress/addressRegion
+The label is: label:PostalAddress|http://schema.org/PostalAddress/addressLocality
+The label is: label:PostalAddress|http://schema.org/PostalAddress/addressCountry

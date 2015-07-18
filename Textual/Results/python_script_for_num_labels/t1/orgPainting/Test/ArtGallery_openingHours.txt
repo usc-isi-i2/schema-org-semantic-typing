@@ -1,0 +1,2 @@
+label:ArtGallery|http://schema.org/ArtGallery/openingHours
+\n\t\t    \t\t\t\tGallery Hours:Monday - Friday, 11:00 - 5:30 PMSaturday, 11:00 - 3:00 PM\n\t\t    \t\t\t

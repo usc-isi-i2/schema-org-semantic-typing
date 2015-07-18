@@ -1,0 +1,3 @@
+label:LocalBusiness|http://schema.org/LocalBusiness/name
+DenArt body painting studio
+DenArt body painting studio

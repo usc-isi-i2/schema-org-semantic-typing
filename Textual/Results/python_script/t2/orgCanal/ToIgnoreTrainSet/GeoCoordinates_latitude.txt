@@ -1,0 +1,14 @@
+label:GeoCoordinates|http://schema.org/GeoCoordinates/latitude
+51.2809
+43.611
+45.4375
+45.4375
+41.0592
+28.9361
+51.028
+37.9344
+51.0674
+51.0674
+52.3482
+52.3482
+48.6195

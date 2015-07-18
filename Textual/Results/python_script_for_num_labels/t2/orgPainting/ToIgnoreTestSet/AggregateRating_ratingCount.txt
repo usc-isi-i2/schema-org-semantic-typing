@@ -1,0 +1,7 @@
+label:AggregateRating|http://schema.org/AggregateRating/ratingCount
+1
+1
+64
+22
+42
+1

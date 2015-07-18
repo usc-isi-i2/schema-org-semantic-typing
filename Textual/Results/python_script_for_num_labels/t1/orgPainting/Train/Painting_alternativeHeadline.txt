@@ -1,0 +1,3 @@
+label:Painting|http://schema.org/Painting/alternativeHeadline
+Illustration Art
+Illustration Art

@@ -1,0 +1,11 @@
+label:ImageObject|http://schema.org/ImageObject/contentURL
+http://icdn.images.touristlink.com/data/cache/T/H/E/F/O/N/D/A/the-fondaco-dei-turchi_200_0.jpg
+http://icdn.images.touristlink.com/data/cache/G/R/A/N/D/C/A/N/grand-canal-venise_200_0.jpg
+http://cdn1.images.touristlink.com/data/cache/B/A/I/N/B/R/I/D/suez-canal-bainbridge-_in-__400_300.jpg
+http://icdn.images.touristlink.com/data/cache/TH/IE/UJ/PG/00/12/canal-du-centre-thieu-_-j-p-g-0-1_200_0.jpg
+http://icdn.images.touristlink.com/data/cache/0S/TR/C3/A9/PY/B/canal-du-centre-0_-str-c-3-a-9py-bracquegnies-_-vi_200_0.jpg
+http://cdn1.images.touristlink.com/data/cache/CH/AM/BL/YC/AN/AL/AN/DP/chambly-canal-and-piste-polyvalente-saint-jean-sur_400_300.jpg
+http://icdn.images.touristlink.com/data/cache/A/M/S/T/E/R/D/A/amsterdam-2-c-brugjes-bij-singel-en-brouwersgracht-0-7_200_0.jpg
+http://icdn.images.touristlink.com/data/cache/K/E/I/Z/E/R/S/G/keizersgracht-reguliersgracht-amsterdam_200_0.jpg
+http://icdn.images.touristlink.com/data/cache/A/M/S/T/E/R/D/A/amsterdam-2-c-monumentale-panden-aan-kloveniersburgwal-0_200_0.jpg
+http://icdn.images.touristlink.com/data/cache/H/E/R/E/N/G/R/A/herengracht-2-0-1_200_0.jpg

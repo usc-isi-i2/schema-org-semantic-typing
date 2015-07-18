@@ -1,0 +1,12 @@
+label:PostalAddress|http://schema.org/PostalAddress/addressLocality
+Ghent
+Toulouse
+Venice
+Venice
+Brussels
+Corinth
+Antwerp
+Antwerp
+Amsterdam
+Amsterdam
+St. Oswald bei Haslach

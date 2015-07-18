@@ -1,0 +1,3 @@
+label:PostalAddress|http://schema.org/PostalAddress/postalCode
+11101
+11101

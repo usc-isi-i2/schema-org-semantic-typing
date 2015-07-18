@@ -1,0 +1,9 @@
+label:Canal|http://schema.org/Canal/additionalType
+http://www.touristlink.com/egypt/ismailia/cat/canals.html
+http://www.touristlink.com/egypt/ismailia/cat/canals.html
+http://www.touristlink.com/egypt/ismailia/cat/recreation_outdoor.html
+Canals near Ismailia
+http://www.touristlink.com/canada/chambly/cat/canals.html
+Canals near Chambly
+http://www.touristlink.com/canada/chambly/cat/canals.html
+http://www.touristlink.com/canada/chambly/cat/recreation_outdoor.html
